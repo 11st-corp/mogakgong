@@ -1,5 +1,7 @@
 # mogakgong
 
+> Started at 23-07-27
+
 ## 📚 Contents
 
 - Bi-Weekly로 각자의 스터디 주제와 내용을 공유
