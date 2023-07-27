@@ -62,3 +62,12 @@ message GreetResponse {
 - IDL (Interface Definition Language) 로 Protobuf 사용
 
 ![gRPC](./images/2023-07-27-4.png)
+
+
+> ### gRPC vs REST
+> #### Response Time (Lower the better)
+> ![gRPC vs REST - Aspect of Response Time](./images/2023-07-27-5.png)
+>
+> #### Throughput (Higher the better)
+> ![gRPC vs REST - Aspect of Throughput](./images/2023-07-27-6.png)
+>
