@@ -1,0 +1,12 @@
+{
+  "flags": {
+    "test-flag": {
+      "variants": {
+        "on": true,
+        "off": false
+      },
+      "state": "ENABLED",
+      "defaultVariant": "off"
+    }
+  }
+}
