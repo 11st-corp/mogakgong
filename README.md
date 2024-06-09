@@ -11,7 +11,7 @@
 - [박지현](https://github.com/jihyunhillpark)
 - [손민철](https://github.com/Minchul-Son)
 - [전지원](https://github.com/kworkbee)
-- [어해림](https://github.com/Hae-Riri)
+- [김성현](https://github.com/kim-svadoz)
 
 <hr />
 <p align="center">
